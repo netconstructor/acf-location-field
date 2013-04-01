@@ -25,11 +25,13 @@ This plugin has been written to work for both versions 3 & 4 of ACF
 
 This plugin can be treated as both a WP plugin and a theme include.
 
-= Plugin =
+#### Plugin
+
 1. Copy the 'acf-location' folder into your plugins folder
 2. Activate the plugin via the Plugins admin page
 
-= Include =
+#### Include
+
 1. Copy the 'acf-location' folder into your theme folder (can use sub folders)
    * You can place the folder anywhere inside the 'wp-content' directory
 2. Edit your functions.php file and add the following code to include the field:
