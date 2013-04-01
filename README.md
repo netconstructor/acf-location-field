@@ -1,6 +1,6 @@
 # ACF { Location Field
 
-Google Maps field type for the [Advanced Custom Fields](http://wordpress.org/extend/plugins/advanced-custom-fields/) WordPress plugin.
+Adds a 'Google Maps' field type for the [Advanced Custom Fields](http://wordpress.org/extend/plugins/advanced-custom-fields/) WordPress plugin.
 
 -----------------------
 
