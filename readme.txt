@@ -9,15 +9,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Adds a Google Map Location field to the Advanced Custom Fields plugin for both versions 3 & 4. This field allows you to find addresses and coordinates of a desired location.
 
-== Copyright ==
-Copyright 2011 - 2013 Lewis Carey
-
-This software is NOT to be distributed, but can be INCLUDED in WP themes: Premium or Contracted.
-This software is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-
-
 == Description ==
 
 This is an add-on for the [Advanced Custom Fields](http://wordpress.org/extend/plugins/advanced-custom-fields/)
