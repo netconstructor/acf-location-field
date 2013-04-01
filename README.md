@@ -17,20 +17,23 @@ In both cases, Google will find the location and return the coordinates and the 
 
 
 ### Compatibility
-- [x] version 4 and up
-- [x] version 3 and bellow
+
+This plugin will work with:
+
+* version 4 and up
+* version 3 and bellow
 
 
 ### Installation
 
 This plugin can be treated as both a WP plugin and a theme include.
 
-**Plugin**
+**Install as Plugin**
 
 1. Copy the 'acf-location' folder into your plugins folder
 2. Activate the plugin via the Plugins admin page
 
-**Include**
+**Include within theme**
 
 1.	Copy the 'acf-location' folder into your theme folder (can use sub folders). You can place the folder anywhere inside the 'wp-content' directory
 2.	Edit your functions.php file and add the code below (Make sure the path is correct to include the acf-location.php file)
@@ -42,7 +45,7 @@ function my_register_fields()
 {
 	include_once('acf-location/acf-location.php');
 }
-`
+```
 
 ### More Information
 
