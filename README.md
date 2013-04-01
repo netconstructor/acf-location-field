@@ -6,7 +6,7 @@ Adds a 'Google Maps' field type for the [Advanced Custom Fields](http://wordpres
 
 ### Overview
 
-This WP plugin adds a Google Map Location field tpye to the Advanced Custom Fields plugin for both versions 3 & 4. This field allows you to find addresses and coordinates of a desired location.
+This add-on adds a Google Map Location field type to the Advanced Custom Fields plugin for both versions 3 & 4. This field allows you to find addresses and coordinates of a desired location.
 
 The Location field provides:
 
@@ -18,7 +18,7 @@ In both cases, Google will find the location and return the coordinates and the 
 
 ### Compatibility
 
-This plugin will work with:
+This add-on will work with:
 
 * version 4 and up
 * version 3 and bellow
@@ -26,7 +26,7 @@ This plugin will work with:
 
 ### Installation
 
-This plugin can be treated as both a WP plugin and a theme include.
+This add-on can be treated as both a WP plugin and a theme include.
 
 **Install as Plugin**
 
@@ -49,4 +49,4 @@ function my_register_fields()
 
 ### More Information
 
-Please read the readme.txt file for mor information
+Please read the readme.txt file for more information
