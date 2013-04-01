@@ -33,16 +33,16 @@ This plugin can be treated as both a WP plugin and a theme include.
 **Include**
 
 1.	Copy the 'acf-location' folder into your theme folder (can use sub folders). You can place the folder anywhere inside the 'wp-content' directory
-2.	Edit your functions.php file and add the following code to include the field:
-	`
-	add_action('acf/register_fields', 'my_register_fields');
-	function my_register_fields()
-	{
-		include_once('acf-location/acf-location.php');
-	}
-	`
-3. Make sure the path is correct to include the acf-location.php file
+2.	Edit your functions.php file and add the code below (Make sure the path is correct to include the acf-location.php file)
 
+```php
+add_action('acf/register_fields', 'my_register_fields');
+
+function my_register_fields()
+{
+	include_once('acf-location/acf-location.php');
+}
+`
 
 ### More Information
 
