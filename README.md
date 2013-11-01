@@ -50,3 +50,6 @@ function my_register_fields()
 ### More Information
 
 Please read the readme.txt file for more information
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/netconstructor/acf-location-field/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
